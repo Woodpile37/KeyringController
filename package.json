@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@metamask/bip39": "^4.0.0",
-    "@metamask/eth-hd-keyring": "^4.0.2",
+    "@metamask/eth-hd-keyring": "^5.0.1",
     "browser-passworder": "^2.0.3",
     "eth-sig-util": "^3.0.1",
     "eth-simple-keyring": "^4.2.0",
