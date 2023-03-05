@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@metamask/bip39": "^4.0.0",
-    "@metamask/eth-hd-keyring": "^4.0.2",
+    "@metamask/eth-hd-keyring": "^6.0.0",
     "browser-passworder": "^2.0.3",
     "eth-sig-util": "^3.0.1",
     "eth-simple-keyring": "^4.2.0",
@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "^1.0.6",
-    "@metamask/auto-changelog": "^2.3.0",
+    "@metamask/auto-changelog": "^3.1.0",
     "@metamask/eslint-config": "^7.0.1",
     "@metamask/eslint-config-jest": "^7.0.0",
     "@metamask/eslint-config-nodejs": "^7.0.1",
