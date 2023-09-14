@@ -40,7 +40,7 @@
     "@lavamoat/allow-scripts": "^2.1.0",
     "@metamask/auto-changelog": "^3.0.0",
     "@metamask/eslint-config": "^11.1.0",
-    "@metamask/eslint-config-commonjs": "^11.1.0",
+    "@metamask/eslint-config-commonjs": "^12.1.0",
     "@metamask/eslint-config-jest": "^12.1.0",
     "@metamask/eslint-config-nodejs": "^12.1.0",
     "eslint": "^8.29.0",
